@@ -21,7 +21,10 @@
     * GoIT Automation Tester - Currently undergoing
 
 ## Groups for knowledge gathering
-    * [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)
+    * [ISTQB - egzaminy, pytania, testy]()
+    * <a href="https://www.facebook.com/groups/194288250951242" onclick="window.open('https://www.facebook.com/groups/194288250951242', '_self');">
+ISTQB - egzaminy, pytania, testy
+</a>
     * [[Początki w IT / Początkujący programiści](https://www.facebook.com/groups/poczatkiwit)
     * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
 
