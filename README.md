@@ -4,9 +4,9 @@
 
 
 ## Tools
-    * [Postman](https://www.postman.com/) - Testing tool for REST API
+    * [Postman](https://www.postman.com) - Testing tool for REST API
     * [Jira](https://www.atlassian.com/software/jira) - Issue tracking and project management tool for developers
-    * [Trello](https://trello.com/) - Issue tracking and project management tool for developers
+    * [Trello](https://trello.com) - Issue tracking and project management tool for developers
 
 ## Tech Stack
     * Databases: MySQL
@@ -21,9 +21,9 @@
     * GoIT Automation Tester - Currently undergoing
 
 ## Groups for knowledge gathering
-    * [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242/)
-    * [Początki w IT / Początkujący programiści](https://www.facebook.com/groups/poczatkiwit/)
-    * [Tester oprogramowania - wsparcie na starcie](Tester oprogramowania - wsparcie na starcie)
+    * [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)
+    * [Początki w IT / Początkujący programiści](https://www.facebook.com/groups/poczatkiwit)
+    * [Tester oprogramowania - wsparcie na starcie]([Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
 
 ## Blogs
     * [testerzy.pl](testerzy.pl)
